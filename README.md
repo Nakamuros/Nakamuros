@@ -17,5 +17,5 @@
 Creo firmemente que la comunicación, la empatía y el liderazgo son tan importantes como escribir código limpio. Disfruto liderando equipos y traduciendo requerimientos de negocio en soluciones técnicas.
 
 📫 **Conecta conmigo:**
-- [LinkedIn]([https://www.linkedin.com/in/angel-gabriel-diaz-chavez/])
-- [Correo](agabrieldchavez@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/angel-gabriel-diaz-chavez/
+- Correo: agabrieldchavez@gmail.com
